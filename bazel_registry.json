@@ -1,0 +1,9 @@
+{
+
+    "mirrors": [],
+    "versions": ["1.0.0"],
+    "yanked_versions": {},
+    "maintainers": [
+        { "name": "Juh", "email": "j@example.com" }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "maintainers": [
+        {
+            "name": "Juh",
+            "email": "j@example.com",
+        }
+    ],
+    "homepage": "my-home-page",
+    "repository": ".git-link",
+    "versions": [
+        "1.0.0"
+    ]
+}
